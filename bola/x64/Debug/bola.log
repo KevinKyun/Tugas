@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\code\UTS\bola\bola\Source.cpp(6,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  bola.vcxproj -> D:\code\UTS\bola\x64\Debug\bola.exe
